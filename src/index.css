@@ -1,0 +1,15 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+button,
+[role="button"],
+.ai-card,
+.ai-stat-card,
+.ai-hospital-card,
+.ai-doctor-card,
+.info-card,
+.capsule {
+  cursor: pointer;
+}
